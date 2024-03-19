@@ -1,4 +1,8 @@
-AWS               -  Amazon Web Services
+AMAZON            - transnational corporation, one of the FAANG (faceebook, amazon, apple, netflix, google) member. Ticker AMZN 
+                    owner dozen companies such as amazon.com bigest internet store in the world, amazon prime, amazon robotics. AWS 
+                    and so on. 
+AWS               - Amazon Web Services provides cloud computing web services, services related to networking, storage (S3 cloud)
+                    and so on
 COST OPTIMIZATION - cloud-devops engineers responsible for cost optimization
 BUDGETING         - in aws we creat budget plan with deffinitly amount, we can set limits, we'll receive notifications if we
                     increase our limits  
